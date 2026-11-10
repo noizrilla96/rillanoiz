@@ -10,5 +10,5 @@ This is the home for Rillanoiz. Projects and notes will live here.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-Copyright (c) 2026 Sylvester Dudley.
+This project is licensed under the [Apache License 2.0](LICENSE).
+Copyright 2026 Sylvester Dudley.
